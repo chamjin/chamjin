@@ -9,7 +9,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamjin&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </a>
-
+  <br> <br><br> <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00000097&vCenter=true&repeat=false&random=true&width=435&height=100&lines=CHAMJIN+GITHUB" alt="Typing SVG" /></a>
 
   <details>
