@@ -1,3 +1,2 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
-</div>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamjini)](https://github.com/anuraghazra/github-readme-stats)
+
