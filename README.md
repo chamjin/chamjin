@@ -1,28 +1,9 @@
-<div align='center'>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamjin&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-  </a>    
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=chamjin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamjin&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-  </a>
-  <br> <br><br> <br>
+<p align='center'>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchamjin%2Fhit-counter&count_bg=%23D3D3D3&title_bg=%23555555&icon=&icon_color=%auto&title=방문자&edge_flat=false"/></a>
+</p>
 
-  <details>
-    <summary>
-      clik!
-    </summary>
-      <br>
-      <a href="https://never4ott.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-      <br> <br>
-  </details/> 
-  <br> <br>
- 
-  <br><br><br><br><br><br>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello.👋&fontSize=80&animation=fadeIn&fontAlignY=34&desc=Welcome%20to%20ChamJin's%20GitHub&descAlignY=51&descAlign=62"/>
+</p>
 
-  
 
-</div>
